@@ -120,7 +120,7 @@ Fiziksel güvenlik, ağın donanım bileşenlerini koruma sürecidir. Bu, sunucu
 
 Etkili bir ağ güvenliği stratejisi için tüm ağ varlıklarının tanımlanması gerekir.
 
-![Network Administration: P5 Interrogate a network to identify the network  assets and their confirguration](ag-guvenligi/media/image1.jpeg)
+![Network Administration: P5 Interrogate a network to identify the network  assets and their confirguration](ag-guvenligi/ag-guvenligi/media/image1.jpeg)
 
 ##### Ağ varlıklarının yaygın örnekleri şunları içerir:
 
@@ -178,7 +178,7 @@ Yazılımsal güvenlik stratejileri, banka ağındaki yazılım bileşenlerinin 
 
 Bu örnek, ağ güvenliği stratejilerinin sektörde nasıl uygulandığını göstermektedir. Her organizasyonun ihtiyaçlarına ve sektöre göre farklı ağ güvenliği stratejileri kullanması önemlidir. Ağ güvenliği stratejileri, organizasyonların ağlarını tehditlere karşı korumak ve güvenli bir çalışma ortamı sağlamak için hayati öneme sahiptir.
 
-kullanılır.![Security Strategy and Transformation | Cyber Security Consulting | EGS](ag-guvenligi/media/image2.png)
+kullanılır.![Security Strategy and Transformation | Cyber Security Consulting | EGS](ag-guvenligi/ag-guvenligi/media/image2.png)
 
 ### d.      Ağ Güvenliği Stratejileri
 
@@ -190,7 +190,7 @@ VPN'ler: Güvenli uzaktan erişim sağlamak için sanal özel ağlar (VPN'ler) 
 
 Ağ Segmantasyonu: Ağ, daha küçük, daha yönetilebilir segmentlere ayrılır. Bu, ağ trafiğini kontrol etmeyi ve potansiyel tehditleri sınırlamayı kolaylaştırır. Ağ segmantasyonu, ağdaki güvenlik açıklarının yayılmasını engeller.
 
-![Managed Security – SupraITS](ag-guvenligi/media/image3.jpeg)
+![Managed Security – SupraITS](ag-guvenligi/ag-guvenligi/media/image3.jpeg)
 
 Ağ güvenliği stratejileri, bir organizasyonun bilgi varlıklarını korumak için hayati öneme sahiptir. Bu stratejiler, ağın fiziksel, yazılımsal ve ağ bileşenlerini korumak için birlikte çalışır.
 
@@ -231,7 +231,7 @@ Sıfır güven güvenlik modeli, kullanıcıların yalnızca rollerini yerine ge
 
 Ağ güvenliği uygulamaları ve araçları, ağları tehditlere karşı korumak için kullanılan yazılım ve donanım çözümleridir. Bu uygulamalar ve araçlar, ağın farklı bileşenlerini korumak için birlikte çalışır.
 
-![Understanding Network Security: Tools & Protection | IR](ag-guvenligi/media/image4.jpeg)
+![Understanding Network Security: Tools & Protection | IR](ag-guvenligi/ag-guvenligi/media/image4.jpeg)
 
 ### a.      Güvenlik Duvarları
 
@@ -268,7 +268,7 @@ Bu örnek, ağ güvenliği uygulamalarının ve araçlarının sektörde nasıl 
 
 Ağ güvenliği politikaları, bir organizasyonun ağını ve bilgi varlıklarını korumak için belirlediği kurallar ve prosedürlerdir. Bu politikalar, ağ güvenliği stratejilerinin ve uygulamalarının etkin bir şekilde uygulanmasını sağlar ve ağın güvenliğini artırır.
 
-![22 Ways You Can Stay On Top Of Your Network Security - Stanfield IT](ag-guvenligi/media/image5.png)
+![22 Ways You Can Stay On Top Of Your Network Security - Stanfield IT](ag-guvenligi/ag-guvenligi/media/image5.png)
 
 ### a.      Ağ Güvenliği Politikalarının Önemi
 
@@ -374,7 +374,7 @@ _v._                   Düzeltici Önlemler: Denetim raporunda
 
 Güvenlik denetimleri, ağ güvenliği için önemli bir bileşen olarak kabul edilir ve birçok organizasyon tarafından düzenli olarak gerçekleştirilir. Bu denetimler, ağdaki güvenlik açıklarını tespit etmek, uyumluluk gereksinimlerini karşılamak ve güvenlik politikalarının etkinliğini değerlendirmek için kullanılır. Ayrıca, güvenlik denetimleri, organizasyonların düzenleyici standartlara uyum sağlamasını ve güvenlik gereksinimlerini karşılamasını sağlar.
 
-![Web Application Security Audit & Testing Services | Dotsquares](ag-guvenligi/media/image6.jpeg)
+![Web Application Security Audit & Testing Services | Dotsquares](ag-guvenligi/ag-guvenligi/media/image6.jpeg)
 
 ### b.      Güvenlik Denetimlerinin Önemi
 
